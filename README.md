@@ -1,134 +1,178 @@
 
 <div align="center">
 
-# Hey, I'm Harsha Kyle 👋
+<!-- Animated header -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Harsha+Kyle+%F0%9F%91%8B;AI%2FML+Developer;Building+Ideas+Into+Reality;Code.+Create.+Innovate." alt="Typing introduction" />
 
-### AI/ML Developer | Python Developer | Problem Solver
+### `AI/ML Developer` · `Python Developer` · `Problem Solver`
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications;Exploring+Machine+Learning+%26+Generative+AI;Automating+Everyday+Tasks;Turning+Ideas+Into+Working+Projects" alt="Typing SVG" />
-</a>
+<p>
+  <a href="https://github.com/Harsha-Kyle">
+    <img src="https://img.shields.io/badge/GitHub-Harsha--Kyle-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harsha-kyle/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-<br/>
-
-<a href="https://github.com/Harsha-Kyle">
-  <img src="https://img.shields.io/badge/GitHub-Harsha--Kyle-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/harsha-kyle/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:007CF0,100:00F7FF&height=3&section=header" width="100%" alt="Blue gradient divider"/>
 
 </div>
 
----
+## ⚡ About Me
 
-## 🧑‍💻 About Me
+```python
+class HarshaKyle:
+    role = "AI/ML Developer"
+    languages = ["Python", "Java", "SQL"]
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Desktop Automation",
+        "Problem Solving"
+    ]
+    current_projects = ["Kyoma", "SahayaAI"]
 
-I'm a developer interested in building practical solutions using
-Artificial Intelligence, Machine Learning, and software development.
+    motto = "Build things that solve real problems."
+```
 
-- 🤖 Building **Kyoma**, a local AI desktop companion
-- 🌾 Developing **SahayaAI**, a multilingual AI assistant for rural governance
-- 📊 Exploring predictive analytics and data visualization
-- 🧠 Practising Data Structures and Algorithms
-- ⚡ Interested in intelligent automation and real-world AI applications
+- 🤖 Building **Kyoma** — a local AI desktop companion.
+- 🌾 Developing **SahayaAI** — multilingual AI assistance for rural governance.
+- 📊 Exploring machine learning, predictive analytics, and data visualization.
+- 🧠 Improving my DSA skills through regular coding practice.
+- 🚀 Always experimenting, learning, and building.
 
-> My goal is to build technology that solves real problems, not just demos.
+## 🧰 Tech Stack
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,sql&theme=dark" alt="Languages"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,sqlite&theme=dark" alt="Programming languages and tools"/>
 </p>
 
-### AI, Data & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,pandas,git,github,vscode,sqlite&theme=dark" alt="Development tools"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-412991?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Generative_AI-00A67E?style=flat-square" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs"/>
 </p>
 
-<!-- Keep only technologies you have actually used. -->
-
----
+<!-- Remove technologies you haven't used in your own projects. -->
 
 ## 🚀 Featured Projects
 
-### 🤖 Kyoma — Local AI Desktop Companion
-A privacy-focused AI assistant designed to combine desktop automation,
-voice interaction, and an optional physical robot interface.
+<table>
+<tr>
+<td width="50%">
 
-**Focus:** Python · Local LLMs · Windows Automation · Embedded Systems
+### 🤖 Kyoma
 
-[View Repository](https://github.com/Harsha-Kyle/KYOMA)
+A privacy-focused local AI companion that aims to combine desktop automation, voice interaction, and a physical robot interface.
 
-### 🌾 SahayaAI — Multilingual AI Assistance
-An AI project focused on making cooperative governance and legal
-assistance more accessible through multilingual interaction.
+**Focus:** Python · Local LLMs · Automation · Embedded Systems
 
-**Focus:** AI · RAG · Multilingual Interfaces · Voice Interaction
+<a href="https://github.com/Harsha-Kyle/KYOMA">Explore Repository →</a>
 
-[View Repository](https://github.com/Harsha-Kyle/SAHAYAK-AI)
+</td>
+<td width="50%">
 
-### 📊 Call Center Analytics Dashboard
-An interactive analytics project for exploring customer satisfaction
-and sentiment using data visualization.
+### 🌾 SahayaAI
 
-**Focus:** Python · Plotly · SQLite · Data Analytics
+A multilingual AI assistant concept for improving access to cooperative governance and legal information.
 
-[View Repository](https://github.com/Harsha-Kyle/call-center-dashboard)
+**Focus:** AI · RAG · Voice Interfaces · Multilingual Assistance
+
+<a href="https://github.com/Harsha-Kyle/SAHAYAK-AI">Explore Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Call Center Analytics
+
+An interactive dashboard for customer satisfaction analysis and sentiment-based insights.
+
+**Focus:** Python · Plotly · SQLite · Analytics
+
+<a href="https://github.com/Harsha-Kyle/call-center-dashboard">Explore Repository →</a>
+
+</td>
+<td width="50%">
 
 ### 📈 Stock Predictor
-A machine learning project exploring stock prediction and forecasting.
 
-[View Repository](https://github.com/Harsha-Kyle/Stock-Predictor)
+A predictive analytics project exploring stock data and forecasting.
+
+**Focus:** Python · Machine Learning · Time Series
+
+<a href="https://github.com/Harsha-Kyle/Stock-Predictor">Explore Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 💻 LeetCode Solutions
-A collection of coding practice solutions to improve problem-solving
-and algorithmic thinking.
 
-[View Repository](https://github.com/Harsha-Kyle/Leet-code)
+A growing collection of coding problems and algorithmic solutions.
 
----
+**Focus:** Data Structures · Algorithms · Java / Python
 
-## 📊 GitHub Analytics
+<a href="https://github.com/Harsha-Kyle/Leet-code">Explore Repository →</a>
 
-<div align="center">
+</td>
+<td width="50%">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsha-Kyle&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+### 🔐 File Encryption
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-Kyle&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+A file encryption project exploring secure file handling with AES-256-GCM and compression.
 
-<br/>
+**Focus:** Python · Cryptography · Dash
 
-<img src="https://streak-stats.demolab.com?user=Harsha-Kyle&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<a href="https://github.com/Harsha-Kyle">Explore My Repositories →</a>
 
-</div>
+</td>
+</tr>
+</table>
 
----
-
-## 🎯 Current Focus
-
-- Strengthening Data Structures and Algorithms
-- Building reliable AI-powered applications
-- Learning more about LLMs and Retrieval-Augmented Generation
-- Improving software engineering and project documentation
-- Contributing consistently to my projects
-
----
-
-## 🤝 Let's Connect
+## 📊 GitHub Activity
 
 <div align="center">
 
-I'm always interested in learning, collaborating, and building useful technology.
-
-<a href="https://github.com/Harsha-Kyle">GitHub</a> •
-<a href="https://www.linkedin.com/in/harsha-kyle/">LinkedIn</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsha-Kyle&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
 <br/><br/>
 
-**"Build with curiosity. Improve with consistency."**
+<img src="https://streak-stats.demolab.com?user=Harsha-Kyle&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+[![Harsha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsha-Kyle&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Harsha-Kyle)
+
+</div>
+
+## 🎯 Currently Working On
+
+- Building useful AI-powered applications.
+- Exploring LLMs and Retrieval-Augmented Generation.
+- Strengthening DSA and coding interview skills.
+- Improving code quality, documentation, and project architecture.
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Harsha-Kyle">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/harsha-kyle/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+*“Stay curious. Keep building. Make it useful.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=100&section=footer" width="100%" alt="Blue gradient footer"/>
 
 </div>
