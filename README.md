@@ -41,7 +41,7 @@ Artificial Intelligence, Machine Learning, and software development.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,sql&theme=dark" alt="Languages"/>
 </p>
 
 ### AI, Data & Development
