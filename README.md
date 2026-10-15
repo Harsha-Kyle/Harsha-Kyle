@@ -140,7 +140,7 @@ A file encryption project exploring secure file handling with AES-256-GCM and co
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsha-Kyle&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-Kyle&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Harsha-Kyle&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
